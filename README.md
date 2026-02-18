@@ -11,8 +11,9 @@ Para acompanhar a disciplina, você precisará das seguintes ferramentas:
 
 ## 📂 Estrutura de Pastas
 Este repositório está organizado da seguinte forma:
-- **aluno-online-vanilla/**: Projeto de um portal utilizando HTML5, CSS3 e JavaScript puro.
-- **aluno-online-react/**: Projeto de um portal utilizando React.js + Vite.
+- **aulas/**: Contém os códigos utilizados nas aulas teóricas.
+- **praticas/aluno-online-vanilla/**: Contém o projeto de um portal utilizando HTML5, CSS3 e JavaScript puro.
+- **praticas/aluno-online-react/**: Contém o projeto de um portal utilizando React.js + Vite.
 
 ## 🐳 Como Rodar o Projeto
 Siga os passos:
