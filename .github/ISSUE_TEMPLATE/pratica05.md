@@ -1,14 +1,15 @@
 ---
 name: "Prática 05"
 about: "Template para criar a issue da pratica05"
-title: "[Prática 05] – Props e Estado em React"
+title: "[Prática 05] – Props, Estado e Eventos em React"
 labels: ["pratica05"]
 assignees: ''
 ---
 
 ## 🎯 Objetivo
 Nesta prática, você irá:
-- Usar props para reutilizar componentes e useState para controlar dados digitados pelo usuário.
+- Usar props para reutilizar componentes e useState para controlar dados digitados pelo usuário;
+- Implementar e tratar eventos (onChange, onSubmit) para capturar e manipular interações do usuário.
 
 ## 📝 Instruções da Atividade
 **1️⃣ Preparação do ambiente**
