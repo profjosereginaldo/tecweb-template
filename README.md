@@ -1,4 +1,4 @@
-# 🎓 TECWEB: TECNOLOGIAS WEB
+# 🎓 TECWEB: Tecnologias Web
 Repositório destinado às aulas teóricas e às atividades práticas da disciplina.
 
 ## 🛠️ Ambiente de Desenvolvimento
