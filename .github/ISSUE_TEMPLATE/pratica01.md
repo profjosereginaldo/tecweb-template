@@ -22,8 +22,7 @@ Utilize a imagem abaixo como guia estrutural para a construção da página:
 
 ![Wireframe](https://raw.githubusercontent.com/profjosereginaldo/tecweb-template/refs/heads/main/assets/wireframe.png)
 
-A imagem serve como referência de organização dos blocos da página.  
-O foco da prática é a **estrutura semântica**, não a estilização visual.
+A imagem serve como referência de organização dos blocos da página. O foco da prática é a **estrutura semântica**, não a estilização visual.
 
 ## 📝 Instruções da Atividade
 1️⃣ **Preparação do ambiente**
